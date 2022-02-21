@@ -64,7 +64,7 @@ mades a last request to the service.
     3. docker-compose exec web python manage.py migrate
     4. docker-compose exec web python manage.py createsuperuser
 
-## **[Postman collection](https://www.getpostman.com/collections/228d4fa31548e09f21d9)**
+## **[Link to Postman collection](https://www.getpostman.com/collections/228d4fa31548e09f21d9)**
 
 ### P.S.
 Use StarNavi_TestTask.env.postman_environment.json file to create an enviroment for provided Postman collection.
